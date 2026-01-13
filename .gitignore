@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.env
+.ipynb_checkpoints/
+chroma_db_vps/
+mistral_model_saved/

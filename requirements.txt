@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-huggingface
+transformers
+bitsandbytes
+accelerate
+pandas
+torch
+chromadb
+sentence-transformers
+fastapi
+uvicorn
+pydantic
